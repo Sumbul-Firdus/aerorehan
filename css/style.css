@@ -15,7 +15,13 @@ body{
 	font-family: 'Oswald', sans-serif;
 }
 
-
+.whatsapp_main{
+  position: fixed; 
+  text-align: right;
+  bottom: 0px;
+  right: 0px;
+  z-index: 10;
+}
 
 /*Header*/
 
